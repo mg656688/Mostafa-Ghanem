@@ -4,5 +4,5 @@
 📫 How to reach me ? just send me on my personal email --> mg656688@gmail.com
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
