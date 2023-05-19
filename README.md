@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Mostafa Gahnem</h1>
+<h1 align="center">Hi👋, I'm Mostafa Ghanem</h1>
 <h3 align="center">A passionate software engineer </h3>
 
 - 🌱 I’m currently learning **State management and Design pattern**
