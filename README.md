@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Mostafa Gahnem</h1>
 <h3 align="center">A passionate software engineer </h3>
 
