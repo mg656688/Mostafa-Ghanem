@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74466828/99154874-4e680580-26dd-11eb-9773-48576689f01e.gif" width="800"/>
+  <img src="https://user-images.githubusercontent.com/74466828/99154874-4e680580-26dd-11eb-9773-48576689f01e.gif" width="1000"/>
 </div>
 
 <h1 align="left">Hi👋, I'm Mostafa Ghanem</h1>
